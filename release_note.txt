@@ -4,3 +4,4 @@ Flutter - Dart Github Release Note.
     Version 1.0.0
 =======================================================================
 - Flutter 기반 Memo App Github 연동.
+- App Icon 적용
