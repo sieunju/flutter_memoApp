@@ -129,3 +129,5 @@ app.*.symbols
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/dev/ci/**/Gemfile.lock
+
+lib/networkDefine.dart
